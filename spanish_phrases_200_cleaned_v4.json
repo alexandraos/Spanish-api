@@ -1,0 +1,1802 @@
+[
+  {
+    "es": "¡Intentemos algo!",
+    "en": "Let's try something.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Tengo que irme a dormir.",
+    "en": "I have to go to sleep.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡Hoy es 18 de junio y es el cumpleaños de Muiriel!",
+    "en": "Today is June 18th and it is Muiriel's birthday!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Ahora, Muiriel tiene 20 años.",
+    "en": "Muiriel is 20 now.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "La contraseña es \"Muiriel\".",
+    "en": "The password is \"Muiriel\".",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Volveré pronto.",
+    "en": "I will be back soon.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "No tengo palabras.",
+    "en": "I'm at a loss for words.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Esto no acabará nunca.",
+    "en": "This is never going to end.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Simplemente no sé qué decir...",
+    "en": "I just don't know what to say.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Era un conejo malo.",
+    "en": "That was an evil bunny.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Yo estaba en las montañas.",
+    "en": "I was in the mountains.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Es una foto reciente?",
+    "en": "Is it a recent picture?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No sé si tengo tiempo.",
+    "en": "I don't know if I have the time.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "La educación en este mundo me decepciona.",
+    "en": "Education in this world disappoints me.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Estás en mejor forma que yo.",
+    "en": "You're in better shape than I am.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Estás en mi camino.",
+    "en": "You are in my way.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Eso va a costar 30 €.",
+    "en": "This will cost €30.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Gano 100 € al día.",
+    "en": "I make €100 a day.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Quizás me dé pronto por vencido y en lugar de eso me eche una siesta.",
+    "en": "I may give up soon and just nap instead.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso es porque no quieres estar solo.",
+    "en": "It's because you don't want to be alone.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso no va a pasar.",
+    "en": "That won't happen.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "A veces él puede ser un chico raro.",
+    "en": "Sometimes he can be a strange guy.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Me voy a esforzar por no molestarte en tus estudios.",
+    "en": "I'll do my best not to disturb your studying.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Sólo puedo preguntarme si acaso es lo mismo para todos los demás.",
+    "en": "I can only wonder if this is the same for everyone else.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Supongo que es diferente cuando lo consideras a largo plazo.",
+    "en": "I suppose it's different when you think about it over the long term.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Te extraño.",
+    "en": "I miss you.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Argentina",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Los llamaré cuando regrese mañana.",
+    "en": "I'll call them tomorrow when I come back.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Siempre me gustaron más los personajes misteriosos.",
+    "en": "I always liked mysterious characters more.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Deberías dormir.",
+    "en": "You should sleep.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Voy a ir.",
+    "en": "I'm going to go.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Cuba",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Les dije que me mandaran otro boleto.",
+    "en": "I told them to send me another ticket.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eres tan impaciente conmigo.",
+    "en": "You're so impatient with me.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No puedo vivir así.",
+    "en": "I can't live that kind of life.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Una vez quise ser astrofísico.",
+    "en": "I once wanted to be an astrophysicist.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Nunca me gustó la biología.",
+    "en": "I never liked biology.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "La última persona a la que le conté mi idea pensó que yo estaba loco.",
+    "en": "The last person I told my idea to thought I was nuts.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Si el mundo no fuera como es, yo podría confiar en cualquiera.",
+    "en": "If the world weren't in the shape it is now, I could trust anyone.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Desafortunadamente es verdad.",
+    "en": "It is unfortunately true.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Están muy ocupados peleándose entre ellos, como para preocuparse por los ideales comunes.",
+    "en": "They are too busy fighting against each other to care for common ideals.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "La mayoría de la gente cree que estoy loco.",
+    "en": "Most people think I'm crazy.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡No, no lo soy! ¡Lo eres tú!",
+    "en": "No I'm not; you are!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡Esa es mi frase!",
+    "en": "That's MY line!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡¡Él está pateándome!!",
+    "en": "He's kicking me!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Estás seguro?",
+    "en": "Are you sure?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Entonces tenemos un problema...",
+    "en": "Then there is a problem...",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡Ah, allí hay una mariposa!",
+    "en": "Oh, there's a butterfly!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡Date prisa!",
+    "en": "Hurry up.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "No me sorprende.",
+    "en": "It doesn't surprise me.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Por alguna razón, me siento más vivo por la noche.",
+    "en": "For some reason I feel more alive at night.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso depende del contexto.",
+    "en": "It depends on the context.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡¿Acaso te quieres burlar de mí?!",
+    "en": "Are you freaking kidding me?!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Es la cosa más estúpida que he dicho nunca.",
+    "en": "That's the stupidest thing I've ever said.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡¡No quiero ser patético, quiero ser guay!!",
+    "en": "I don't want to be lame; I want to be cool!!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Cuando crezca, quiero ser un rey.",
+    "en": "When I grow up, I want to be a king.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "América es un lugar encantador para vivir, si estás aquí para ganar dinero.",
+    "en": "America is a lovely place to be, if you are here to earn money.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Estoy tan gordo.",
+    "en": "I'm so fat.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Entonces qué?",
+    "en": "So what?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Voy a pegarle un tiro.",
+    "en": "I'm gonna shoot him.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No soy un pez de verdad, sólo soy un peluche.",
+    "en": "I'm not a real fish, I'm just a mere plushy.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡Yo sólo lo digo!",
+    "en": "I'm just saying!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Eso fue probablemente lo que influenció su decisión.",
+    "en": "That was probably what influenced their decision.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Siempre me he preguntado cómo será tener hermanos.",
+    "en": "I've always wondered what it'd be like to have siblings.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Esto es lo que yo habría dicho.",
+    "en": "This is what I would have said.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Me tomaría una eternidad explicarte todo.",
+    "en": "It would take forever for me to explain everything.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso es porque eres una chica.",
+    "en": "That's because you're a girl.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Algunas veces no puedo evitar mostrar mis sentimientos.",
+    "en": "Sometimes I can't help showing emotions.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Es una palabra para la que me gustaría encontrar una sustituta.",
+    "en": "It's a word I'd like to find a substitute for.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso sería algo que habría que programar.",
+    "en": "It would be something I'd have to program.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No tengo la intención de ser egoísta.",
+    "en": "I don't intend to be selfish.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Pensemos en lo peor que podría pasar.",
+    "en": "Let's consider the worst that could happen.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Cuántos amigos íntimos tienes?",
+    "en": "How many close friends do you have?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Yo puedo ser antisocial, pero eso no significa que no hable con la gente.",
+    "en": "I may be antisocial, but it doesn't mean I don't talk to people.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Así ha sido siempre.",
+    "en": "This is always the way it has been.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Spain",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Creo que lo mejor es no ser maleducado.",
+    "en": "I think it is best not to be impolite.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Uno siempre puede encontrar tiempo.",
+    "en": "One can always find time.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Yo seré infeliz, pero no me suicidaría.",
+    "en": "I'd be unhappy, but I wouldn't kill myself.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Cuando yo estaba en el instituto me levantaba a las 6 todas las mañanas.",
+    "en": "Back in high school, I got up at 6 a.m. every morning.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Cuando me desperté estaba triste.",
+    "en": "When I woke up, I was sad.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Por fin está más o menos explicado.",
+    "en": "That is somewhat explained at the end.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Yo pensaba que te gustaba aprender cosas nuevas.",
+    "en": "I thought you liked to learn new things.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "La mayoría de la gente escribe sobre su vida cotidiana.",
+    "en": "Most people write about their daily life.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Si pudiera enviarte un malvavisco, Trang, lo haría.",
+    "en": "If I could send you a marshmallow, Trang, I would.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Para hacer eso, tienes que arriesgarte.",
+    "en": "In order to do that, you have to take risks.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Todas las personas que están solas, están solas porque tienen miedo de los demás.",
+    "en": "Every person who is alone is alone because they are afraid of others.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Por qué lo preguntas?",
+    "en": "Why do you ask?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No soy un artista. Nunca tuve mente para ello.",
+    "en": "I am not an artist. I never had the knack for it.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No puedo decírselo ahora. Ya no es tan simple.",
+    "en": "I can't tell her now. It's not that simple anymore.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Soy una persona que tiene muchos defectos, pero esos defectos pueden ser corregidos fácilmente.",
+    "en": "I am a flawed person, but these are flaws that can easily be fixed.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Cada vez que encuentro algo que me gusta, es demasiado caro.",
+    "en": "Whenever I find something I like, it's too expensive.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Cuánto tiempo estuviste?",
+    "en": "How long did you stay?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Quizás sea lo mismo para él.",
+    "en": "Maybe it will be exactly the same for him.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "La inocencia es una cosa hermosa.",
+    "en": "Innocence is a beautiful thing.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Los humanos nunca fueron hechos para vivir eternamente.",
+    "en": "Humans were never meant to live forever.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No quiero perder mis ideas, aunque algunas de ellas sean un poco extremas.",
+    "en": "I don't want to lose my ideas, even though some of them are a bit extreme.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Creo que tengo una teoría sobre eso.",
+    "en": "I think I have a theory about that.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso es intrigante.",
+    "en": "That is intriguing.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Quieres decir que ocultas intencionalmente tu belleza?",
+    "en": "You are saying you intentionally hide your good looks?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Yo no tengo una cuenta en estos foros.",
+    "en": "I do not have an account in these forums.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Si alguien fuera a preguntar cuál es el objetivo de la historia, realmente no lo sé.",
+    "en": "If anyone was to ask what the point of the story is, I really don't know.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No sabía de dónde venía eso.",
+    "en": "I didn't know where it came from.",
+    "tags": [
+      "directions"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Creo que nuestra convivencia ha influenciado tu forma de vida.",
+    "en": "I think my living with you has influenced your way of living.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No es importante.",
+    "en": "This is not important.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No me gustaba.",
+    "en": "I didn't like it.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Ella pregunta cómo es posible eso.",
+    "en": "She's asking how that's possible.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Tú simplemente huyes de los problemas de la vida.",
+    "en": "You're just running away from life's problems.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Si buscas las letras, realmente no significan mucho.",
+    "en": "If you look at the lyrics, they don't really mean much.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Hay un problema que no ves.",
+    "en": "There's a problem there that you don't see.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡Puedes hacerlo!",
+    "en": "You can do it.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "A mi profesor de física no le importa si me salto las clases.",
+    "en": "My physics teacher doesn't care if I skip classes.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Deseo poder ir a Japón.",
+    "en": "I wish I could go to Japan.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Odio cuando hay mucha gente.",
+    "en": "I hate it when there are a lot of people.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Me tengo que ir a la cama.",
+    "en": "I have to go to bed.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Después de eso, me voy, pero entonces me doy cuenta de que olvidé mi mochila.",
+    "en": "After that, I left, but then I realized that I forgot my backpack at their house.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No te preguntaré más por hoy.",
+    "en": "I won't ask you anything else today.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Puede que hiele la próxima semana.",
+    "en": "It may freeze next week.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Aunque él se disculpó, aún estoy enojada.",
+    "en": "Even though he apologized, I'm still furious.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "La policía te hará encontrar las balas.",
+    "en": "The police will get you to find the bullets.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Gracias por explicarme por fin por qué la gente me toma por un idiota.",
+    "en": "Thanks for having explained to me at last why people take me for an idiot.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No era mi intención.",
+    "en": "That wasn't my intention.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Gracias por tu explicación.",
+    "en": "Thanks for your explanation.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "En teoría, estoy haciendo matemática.",
+    "en": "Theoretically, I'm doing math.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Si no me conocías así, entonces simplemente no me conocías.",
+    "en": "If you didn't know me that way then you simply didn't know me.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Casi me asustó el no verte conectado por un día entero.",
+    "en": "It almost scared me not to see you online for a whole day.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No sé qué quieres decir.",
+    "en": "I don't know what you mean.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Mi ordenador tiene que ser útil para algo.",
+    "en": "My computer has got to be useful for something.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Querías hablarme de libertad?",
+    "en": "You wanted to tell me about freedom?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Oh, ahora es realmente extraño...",
+    "en": "Uh, now it's really weird...",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Si yo quisiera asustarte, te contaría qué fue lo que soñé hace un par de semanas.",
+    "en": "If I wanted to scare you, I would tell you what I dreamt about a few weeks ago.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Uno no puede esperarse todo de los colegios.",
+    "en": "One can't expect everything from schools.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Hay muchas palabras que no entiendo.",
+    "en": "There are many words that I don't understand.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No me gusta cuando matemáticos que saben mucho más que yo no pueden expresarse con claridad.",
+    "en": "I don't like it when mathematicians who know much more than I do can't express themselves explicitly.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Realmente no eres tonto.",
+    "en": "You're really not stupid.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Necesito hacerte una pregunta tonta.",
+    "en": "I need to ask you a silly question.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡No sé cómo demostrarlo, ya que es tan evidente!",
+    "en": "I don't know how to demonstrate it, since it's too obvious!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Nunca hubiera pensado que algún día buscaría \"viagra\" en Wikipedia.",
+    "en": "I wouldn't have thought I would someday look up \"Viagra\" in Wikipedia.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Se puede expresar de otra manera?",
+    "en": "Can it be phrased in another way?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Nadie sabrá.",
+    "en": "No one will know.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Encontré una solución, pero la encontré tan rápido que no puede ser la correcta.",
+    "en": "I found a solution, but I found it so fast that it can't be the right solution.",
+    "tags": [
+      "directions"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡Me parece interesante!",
+    "en": "It seems interesting to me.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Salvo que aquí no es tan simple.",
+    "en": "Except that here, it's not so simple.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Me gusta la luz de las velas.",
+    "en": "I like candlelight.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Qué has respondido?",
+    "en": "What did you answer?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No, no es mi nuevo novio.",
+    "en": "No, he's not my new boyfriend.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Es una lástima que yo no tenga que adelgazar.",
+    "en": "It's too bad that I don't need to lose weight.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡¿Nunca tienes clases o qué?!",
+    "en": "You never have class or what?!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Entonces voy a hacer un sudoku en vez de seguir molestándote.",
+    "en": "I will play Sudoku then instead of continuing to bother you.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Dónde está el problema?",
+    "en": "Where is the problem?",
+    "tags": [
+      "directions"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Sólo puedo esperar.",
+    "en": "I can only wait.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Eso no es ninguna gran sorpresa, ¿o sí?",
+    "en": "It's not much of a surprise, is it?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Te quiero.",
+    "en": "I love you.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Spain",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Ya no me gustas.",
+    "en": "I don't like you anymore.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Tengo curiosidad.",
+    "en": "I am curious.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡Felicidades!",
+    "en": "Congratulations!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "No quiero esperar tanto tiempo.",
+    "en": "I don't want to wait that long.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Por qué no vienes a visitarnos?",
+    "en": "Why don't you come visit us?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Pero la posibilidad es improbable.",
+    "en": "But the possibility seems unlikely.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No debí desconectarme del sitio.",
+    "en": "I shouldn't have logged off.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Ya no sé qué hacer.",
+    "en": "I don't know what to do anymore.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Es inevitable que yo vaya a Francia algún día, sólo que no sé cuándo.",
+    "en": "It is inevitable that I go to France someday, I just don't know when.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Detesto la química.",
+    "en": "I hate chemistry.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Yo no quería que pasase esto.",
+    "en": "I didn't want this to happen.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Aunque probablemente adivines qué está pasando.",
+    "en": "You can probably guess what happens though.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Antes de que te des cuenta, saldrás en los periódicos.",
+    "en": "Next thing you know, you'll be in the papers.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Qué otras opciones tengo?",
+    "en": "What other options do I have?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No tengo mucho de viajero.",
+    "en": "I am not much of a traveller.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No tengo nada mejor que hacer.",
+    "en": "I have nothing better to do.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Tampoco lo puedo explicar.",
+    "en": "I can't explain it either.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Todo el mundo tiene fortalezas y debilidades.",
+    "en": "Everyone has strengths and weaknesses.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Pero en serio, el episodio 21 casi me hizo llorar de risa.",
+    "en": "Seriously though, episode 21 made me almost cry while laughing.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Argentina",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Eso sólo muestra que no eres un robot.",
+    "en": "It only shows you're not a robot.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Cómo podría ser yo un robot? Si los robots no sueñan.",
+    "en": "How could I be a robot? Robots don't dream.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No es algo que pueda hacer cualquiera.",
+    "en": "It's not something anyone can do.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No sé si todavía lo tengo.",
+    "en": "I don't know if I still have it.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Qué piensas que estaba haciendo?",
+    "en": "What do you think I've been doing?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No subestimes mi poder.",
+    "en": "Don't underestimate my power.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Mi mamá no habla muy bien inglés.",
+    "en": "My mom doesn't speak English very well.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡No hablo francés lo suficientemente bien!",
+    "en": "I don't speak French well enough!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Me estaba preguntando si vendrías hoy.",
+    "en": "I was wondering if you were going to show up today.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Ahí radica el problema.",
+    "en": "Therein lies the problem.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Cómo encuentras comida en el espacio?",
+    "en": "How do you find food in outer space?",
+    "tags": [
+      "food"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No tenéis nada que hacer excepto confiar el uno en el otro.",
+    "en": "All you can do is trust one another.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Todos quieren conocerte. ¡Eres famoso!",
+    "en": "Everyone wants to meet you. You're famous!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Por qué lamentas algo que no has hecho?",
+    "en": "Why are you sorry for something you haven't done?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡Aborrezco profundamente la escritura formal!",
+    "en": "I utterly despise formal writing!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "La gente extranjera me intriga.",
+    "en": "Foreign people intrigue me.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Chile",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Cualquier cosa que hago, ella dice que puedo hacerlo mejor.",
+    "en": "Whatever I do, she says I can do better.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¿Qué te mantiene despierto hasta tan tarde?",
+    "en": "What keeps you up so late?",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Te sorprendería lo que puedes aprender en una semana.",
+    "en": "You'd be surprised what you can learn in a week.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No tengo a nadie que viaje conmigo.",
+    "en": "I don't have anyone who'd travel with me.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "No eres lo bastante rápido.",
+    "en": "You're not fast enough.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Peru",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "La vida es dura, pero yo soy más duro.",
+    "en": "Life is hard, but I am harder.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Soportar puede ser insoportable.",
+    "en": "Bearing can be unbearable.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Colombia",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "¡Para ya! ¡La estás haciendo sentir incómoda!",
+    "en": "Stop it! You're making her feel uncomfortable!",
+    "tags": [
+      "daily"
+    ],
+    "region": "Guatemala",
+    "difficulty": "advanced"
+  },
+  {
+    "es": "Sólo la verdad es bella.",
+    "en": "Nothing is beautiful but the truth.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Argentina",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Mañana, alunizará.",
+    "en": "Tomorrow, he will land on the moon.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No hablo japonés.",
+    "en": "I don't speak Japanese.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Spain",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Es un juego de palabras.",
+    "en": "This is a pun.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Nadie me entiende.",
+    "en": "Nobody understands me.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Aprendí a vivir sin ella.",
+    "en": "I learned to live without her.",
+    "tags": [
+      "daily"
+    ],
+    "region": "Cuba",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "No servirá de nada seguir pensando.",
+    "en": "It's useless to keep on thinking any more.",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "advanced"
+  }
+]
