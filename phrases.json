@@ -1,0 +1,20 @@
+[
+  {
+    "es": "¿Cómo estás?",
+    "en": "How are you?",
+    "tags": ["greeting", "conversation"],
+    "region": "general"
+  },
+  {
+    "es": "¿Dónde está el baño?",
+    "en": "Where is the bathroom?",
+    "tags": ["travel"],
+    "region": "general"
+  },
+  {
+    "es": "¿Qué onda?",
+    "en": "What's up?",
+    "tags": ["greeting", "slang"],
+    "region": "Mexico"
+  }
+]
