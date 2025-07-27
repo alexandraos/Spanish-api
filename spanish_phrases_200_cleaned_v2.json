@@ -1,0 +1,398 @@
+[
+  {
+    "es": "¿Qué onda?",
+    "en": "What's up?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Mexico",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¡Hola!",
+    "en": "Hello!",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Cómo estás?",
+    "en": "How are you?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¡Buenos días!",
+    "en": "Good morning!",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¡Buenas tardes!",
+    "en": "Good afternoon!",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Mexico",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¡Buenas noches!",
+    "en": "Good evening/night!",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Qué tal?",
+    "en": "How's it going?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Cómo te va?",
+    "en": "How's it going for you?",
+    "tags": [
+      "greeting"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Dónde está el baño?",
+    "en": "Where is the bathroom?",
+    "tags": [
+      "travel"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Cuánto cuesta?",
+    "en": "How much does it cost?",
+    "tags": [
+      "travel"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Necesito un taxi.",
+    "en": "I need a taxi.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Dónde queda la estación?",
+    "en": "Where is the station?",
+    "tags": [
+      "travel"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿A qué hora sale el autobús?",
+    "en": "What time does the bus leave?",
+    "tags": [
+      "travel"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Estoy perdido.",
+    "en": "I'm lost.",
+    "tags": [
+      "travel"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Puedes ayudarme?",
+    "en": "Can you help me?",
+    "tags": [
+      "travel"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Dónde puedo comprar un boleto?",
+    "en": "Where can I buy a ticket?",
+    "tags": [
+      "travel"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Quisiera una cerveza, por favor.",
+    "en": "I'd like a beer, please.",
+    "tags": [
+      "food"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "La cuenta, por favor.",
+    "en": "The bill, please.",
+    "tags": [
+      "food"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Qué me recomienda?",
+    "en": "What do you recommend?",
+    "tags": [
+      "food"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Estoy lleno, gracias.",
+    "en": "I'm full, thank you.",
+    "tags": [
+      "food"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Tiene opciones vegetarianas?",
+    "en": "Do you have vegetarian options?",
+    "tags": [
+      "food"
+    ],
+    "region": "Mexico",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Sin picante, por favor.",
+    "en": "No spice, please.",
+    "tags": [
+      "food"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Puedo ver el menú?",
+    "en": "Can I see the menu?",
+    "tags": [
+      "food"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Eres muy guapo/a.",
+    "en": "You are very handsome/beautiful.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Quieres salir conmigo?",
+    "en": "Do you want to go out with me?",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Mexico",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Te extraño.",
+    "en": "I miss you.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Te quiero mucho.",
+    "en": "I love you a lot.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Estoy pensando en ti.",
+    "en": "I'm thinking about you.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Me encantas.",
+    "en": "I really like you.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Mexico",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Eres especial para mí.",
+    "en": "You're special to me.",
+    "tags": [
+      "romantic"
+    ],
+    "region": "Colombia",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¿Aceptan tarjeta?",
+    "en": "Do you accept card?",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Tiene otro color?",
+    "en": "Do you have another color?",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Puedo probarlo?",
+    "en": "Can I try it on?",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Mexico",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Está muy caro.",
+    "en": "It's very expensive.",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "¿Me puede dar un descuento?",
+    "en": "Can you give me a discount?",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Solo estoy mirando.",
+    "en": "I'm just looking.",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Lo voy a comprar.",
+    "en": "I'll take it.",
+    "tags": [
+      "shopping"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "¡Ayuda!",
+    "en": "Help!",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Llame a una ambulancia.",
+    "en": "Call an ambulance.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Chile",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Necesito un doctor.",
+    "en": "I need a doctor.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "He perdido mi pasaporte.",
+    "en": "I've lost my passport.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Mexico",
+    "difficulty": "intermediate"
+  },
+  {
+    "es": "Me siento mal.",
+    "en": "I feel sick.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Colombia",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Hay un incendio.",
+    "en": "There's a fire.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Chile",
+    "difficulty": "beginner"
+  },
+  {
+    "es": "Fui robado.",
+    "en": "I was robbed.",
+    "tags": [
+      "emergency"
+    ],
+    "region": "Costa Rica",
+    "difficulty": "beginner"
+  }
+]
