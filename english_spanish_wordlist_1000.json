@@ -1,0 +1,4002 @@
+[
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "music",
+    "es": "música"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "sleep",
+    "es": "dormir"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "pants",
+    "es": "pantalones"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "city",
+    "es": "ciudad"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "house",
+    "es": "casa"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "car",
+    "es": "coche"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "today",
+    "es": "hoy"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "love",
+    "es": "amor"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "day",
+    "es": "día"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "moon",
+    "es": "luna"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "night",
+    "es": "noche"
+  },
+  {
+    "en": "tree",
+    "es": "árbol"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "school",
+    "es": "escuela"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "beach",
+    "es": "playa"
+  },
+  {
+    "en": "happy",
+    "es": "feliz"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "write",
+    "es": "escribir"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "eat",
+    "es": "comer"
+  },
+  {
+    "en": "drive",
+    "es": "conducir"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "play",
+    "es": "jugar"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "mother",
+    "es": "madre"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "run",
+    "es": "correr"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "work",
+    "es": "trabajo"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "friend",
+    "es": "amigo"
+  },
+  {
+    "en": "phone",
+    "es": "teléfono"
+  },
+  {
+    "en": "river",
+    "es": "río"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "drink",
+    "es": "beber"
+  },
+  {
+    "en": "food",
+    "es": "comida"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "mountain",
+    "es": "montaña"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "girl",
+    "es": "niña"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "water",
+    "es": "agua"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "cat",
+    "es": "gato"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "boy",
+    "es": "niño"
+  },
+  {
+    "en": "yesterday",
+    "es": "ayer"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "computer",
+    "es": "computadora"
+  },
+  {
+    "en": "tomorrow",
+    "es": "mañana"
+  },
+  {
+    "en": "father",
+    "es": "padre"
+  },
+  {
+    "en": "shirt",
+    "es": "camisa"
+  },
+  {
+    "en": "sad",
+    "es": "triste"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "sun",
+    "es": "sol"
+  },
+  {
+    "en": "dog",
+    "es": "perro"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "child",
+    "es": "niño"
+  },
+  {
+    "en": "shoes",
+    "es": "zapatos"
+  },
+  {
+    "en": "fly",
+    "es": "volar"
+  },
+  {
+    "en": "door",
+    "es": "puerta"
+  },
+  {
+    "en": "window",
+    "es": "ventana"
+  },
+  {
+    "en": "book",
+    "es": "libro"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "read",
+    "es": "leer"
+  },
+  {
+    "en": "walk",
+    "es": "caminar"
+  }
+]
